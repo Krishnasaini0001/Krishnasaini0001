@@ -34,7 +34,7 @@ A blogging platform where users can create, manage, and share blogs with authent
 
 ## 📫 Connect With Me
 - GitHub: your-github-link
-- LinkedIn: your-linkedin-link
+- LinkedIn: https://www.linkedin.com/in/krishna-saini-b07a2b294/?skipRedirect=true
 - Email: saini.krishna0109@gmail.com
 
 ---
