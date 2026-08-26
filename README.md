@@ -1,44 +1,139 @@
-# Hi 👋, I'm Krishna Saini
+# 👋 Hi there, I'm Krishna!
 
-## 🚀 About Me
-I am a passionate developer and technology enthusiast who loves building projects and learning new technologies.
+<div align="center">
 
----
+# 🚀 Krishna Saini
 
-## 🛠 Skills
-- Python
-- HTML
-- CSS
-- JavaScript
-- AI & Machine Learning
-- Git & GitHub
+### 💻 B.Tech CSE Student | AI & Machine Learning Enthusiast
+
+*Building • Learning • Exploring • Improving*
+
+</div>
 
 ---
 
-## 📌 Projects
+## 👨‍💻 About Me
 
-### AI Powered Skill Gap Analyzer
-An AI-based system that analyzes user skills and compares them with industry requirements to identify missing skills and provide recommendations.
+* 🎓 B.Tech Computer Science Engineering Student
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 🐍 Currently working with **Python**
+* ☕ Learning **Java & DSA**
+* 🗄️ Exploring **SQL & DBMS**
+* 🌐 Learning **Web Development**
+* 🧠 Interested in building practical AI-based projects
+* 📚 Preparing for **technical interviews & placements**
 
-### BLOGsphere
-A blogging platform where users can create, manage, and share blogs with authentication and admin management features.
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🤖 AI / ML Projects
+
+* **Fake News Detection**
+
+  * Machine Learning based fake news classification
+  * Python, Pandas, NumPy, Scikit-learn
+
+* **AI Skill Gap Analyzer**
+
+  * Analyzes skills and identifies areas for improvement
+  * AI/ML based project
+
+### 🌐 Web Development
+
+* **Indore Tourism Web Portal**
+
+  * Tourism website showcasing cultural and historical places
+  * HTML, CSS, JavaScript
+
+### 🧠 Computer Vision
+
+* **AI-Powered Traffic Safety System**
+
+  * Vehicle detection and counting
+  * Accident detection
+  * Wrong-side driving detection
+  * Python, OpenCV, YOLO
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Krishnasaini0001E&show_icons=true&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnasaini0001E&theme=dark&hide_border=true" />
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnasaini0001&layout=compact&theme=dark&hide_border=true" />
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Become strong in **Python & Java**
+* 🧠 Master **Data Structures & Algorithms**
+* 🤖 Build strong foundations in **AI & Machine Learning**
+* 🌐 Improve Full-Stack Development skills
+* 💼 Prepare for software/AI engineering placements
+* 🏗️ Build and deploy real-world projects
+* ⭐ Maintain consistent GitHub activity
 
 ---
 
 ## 📚 Currently Learning
-- Advanced AI
-- Web Development
-- Data Structures & Algorithms
+
+```text
+Python              ████████████████████░  90%
+Java                ███████████████░░░░░░  70%
+DSA                 █████████████░░░░░░░░  65%
+SQL & DBMS          ███████████████░░░░░  75%
+Machine Learning    ████████████░░░░░░░░  60%
+Web Development     ███████████░░░░░░░░░  55%
+```
 
 ---
 
-## 📫 Connect With Me
-- GitHub: Krishnasaini0001
-- LinkedIn: https://www.linkedin.com/in/krishna-saini-b07a2b294/?skipRedirect=true
-- Email: saini.krishna0109@gmail.com
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Krishnasaini0001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## ⚡ Fun Fact
-I enjoy solving coding problems and building innovative projects.
+<div align="center">
 
+### 💙 Thanks for visiting my profile!
+
+**Keep Learning • Keep Building • Keep Growing 🚀**
+
+</div>
