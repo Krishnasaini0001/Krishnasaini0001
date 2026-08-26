@@ -71,9 +71,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krishnasaini0001E&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Krishnasaini0001&show_icons=true&theme=dark&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnasaini0001E&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnasaini0001&theme=dark&hide_border=true" />
 
 </p>
 
