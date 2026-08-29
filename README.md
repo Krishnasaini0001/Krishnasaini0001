@@ -39,31 +39,62 @@
 
 ### 🤖 AI / ML Projects
 
-* **Fake News Detection**
+#### 📰 Fake News Detection
 
-  * Machine Learning based fake news classification
-  * Python, Pandas, NumPy, Scikit-learn
+* Machine Learning based fake news classification
+* Python, Pandas, NumPy, Scikit-learn
+* Focused on detecting whether news content is real or fake
 
-* **AI Skill Gap Analyzer**
+#### 🧠 AI Skill Gap Analyzer
 
-  * Analyzes skills and identifies areas for improvement
-  * AI/ML based project
+* Analyzes skills and identifies areas for improvement
+* AI/ML based project
+* Designed to help users understand their learning requirements
+
+---
 
 ### 🌐 Web Development
 
-* **Indore Tourism Web Portal**
+#### 🏛️ Indore Tourism Web Portal
 
-  * Tourism website showcasing cultural and historical places
-  * HTML, CSS, JavaScript
+* Tourism website showcasing cultural and historical places
+* HTML, CSS, JavaScript
+* Designed to provide information about tourist destinations
+
+---
 
 ### 🧠 Computer Vision
 
-* **AI-Powered Traffic Safety System**
+#### 🚦 AI-Powered Traffic Safety System
 
-  * Vehicle detection and counting
-  * Accident detection
-  * Wrong-side driving detection
-  * Python, OpenCV, YOLO
+* Vehicle detection and counting
+* Accident detection
+* Wrong-side driving detection
+* Python, OpenCV, YOLO
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Krishnasaini0001&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnasaini0001&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Krishnasaini0001&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -81,36 +112,16 @@
 
 ## 📚 Currently Learning
 
-```text
+text
 Python              ████████████████████░  90%
 Java                ███████████████░░░░░░  70%
 DSA                 █████████████░░░░░░░░  65%
 SQL & DBMS          ███████████████░░░░░  75%
 Machine Learning    ████████████░░░░░░░░  60%
 Web Development     ███████████░░░░░░░░░  55%
-```
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Krishnasaini0001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-## Github streak 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Krishnasaini0001&theme=tokyonight)
-
----
 <div align="center">
 
 ### 💙 Thanks for visiting my profile!
