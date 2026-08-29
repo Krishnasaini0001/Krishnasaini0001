@@ -110,18 +110,6 @@
 
 ---
 
-## 📚 Currently Learning
-
-text
-Python              ████████████████████░  90%
-Java                ███████████████░░░░░░  70%
-DSA                 █████████████░░░░░░░░  65%
-SQL & DBMS          ███████████████░░░░░  75%
-Machine Learning    ████████████░░░░░░░░  60%
-Web Development     ███████████░░░░░░░░░  55%
-
----
-
 <div align="center">
 
 ### 💙 Thanks for visiting my profile!
