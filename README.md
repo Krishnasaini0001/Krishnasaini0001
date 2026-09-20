@@ -31,6 +31,17 @@
 </div>
 
 ---
+## 📊 GitHub Overview
+
+<div align="center">
+
+| 🏆 Trophies | ⭐ Stars | 🔥 Contributions | 📁 Repositories |
+|:---:|:---:|:---:|:---:|
+| 🏆 | ⭐ | 🔥 | 📁 |
+
+</div>
+
+---
 
 <!-- ======================= ABOUT ======================= -->
 
