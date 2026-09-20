@@ -109,29 +109,6 @@ krishna.say_hi()
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krishnasaini0001&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnasaini0001&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-### 🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Krishnasaini0001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> </div>
-
----
-
-### 📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnasaini0001&theme=tokyo-night&hide_border=true" /> </div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
