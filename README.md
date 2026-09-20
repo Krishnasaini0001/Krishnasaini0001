@@ -1,28 +1,62 @@
-# 👋 Hi there, I'm Krishna!
+
+<!-- ======================= HEADER ======================= -->
 
 <div align="center">
 
-# 🚀 Krishna Saini
+# 👋 Hey, I'm Krishna Saini
 
-### 💻 B.Tech CSE Student | AI & Machine Learning Enthusiast
+### `B.Tech CSE Student` • `AI/ML Enthusiast` • `Python Developer` • `Future AI Engineer`
 
-*Building • Learning • Exploring • Improving*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I+Build+%7C+I+Learn+%7C+I+Experiment+%F0%9F%9A%80;Exploring+AI%2C+ML+%26+Generative+AI+%F0%9F%A4%96;Turning+Ideas+into+Projects+%F0%9F%92%A1;One+Commit+at+a+Time+%F0%9F%94%A5" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Krishnasaini0001&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ======================= ABOUT ======================= -->
 
-* 🎓 B.Tech Computer Science Engineering Student
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* 🐍 Currently working with **Python**
-* ☕ Learning **Java & DSA**
-* 🗄️ Exploring **SQL & DBMS**
-* 🌐 Learning **Web Development**
-* 🧠 Interested in building practical AI-based projects
-* 📚 Preparing for **technical interviews & placements**
+## 🧑‍💻 Who Am I?
 
+```python
+class KrishnaSaini:
+
+    def __init__(self):
+        self.name = "Krishna Saini"
+        self.education = "B.Tech CSE"
+        self.role = "Student Developer"
+        self.goal = "AI/ML Engineer"
+
+        self.languages = [
+            "Python",
+            "Java",
+            "C++",
+            "SQL"
+        ]
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI",
+            "Data Science",
+            "Web Development",
+            "Problem Solving"
+        ]
+
+        self.hobbies = [
+            "♟️ Chess",
+            "🎨 Sketching"
+        ]
+
+    def say_hi(self):
+        print("Thanks for visiting my GitHub! 🚀")
+
+
+krishna = KrishnaSaini()
+krishna.say_hi()
 ---
 
 ## 🛠️ Tech Stack
