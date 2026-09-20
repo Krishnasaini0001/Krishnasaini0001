@@ -16,28 +16,14 @@
 </div>
 
 ---
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Total Contributions](https://img.shields.io/github/commit-activity/y/Krishnasaini0001?style=for-the-badge&label=Total%20Contributions)
-
-![Repositories](https://img.shields.io/badge/Repositories-My%20Repos-blue?style=for-the-badge&logo=github)
-
-![GitHub Stars](https://img.shields.io/github/stars/Krishnasaini0001?style=for-the-badge&label=Stars)
-
-![Followers](https://img.shields.io/github/followers/Krishnasaini0001?style=for-the-badge&label=Followers)
-
-</div>
-
----
 ## 📊 GitHub Overview
 
 <div align="center">
 
-| 🏆 Trophies | ⭐ Stars | 🔥 Contributions | 📁 Repositories |
+| 🏆 Trophies | ⭐ Stars | 🔥 Contributions | 📁 Followers |
 |:---:|:---:|:---:|:---:|
-| 🏆 | ⭐ | 🔥 | 📁 |
+| 🏆 | ⭐(https://img.shields.io/github/stars/Krishnasaini0001?style=for-the-badge&label=Stars) | 🔥(https://img.shields.io/github/commit-activity/y/Krishnasaini0001?style=for-the-badge&label=Total%20Contributions) | 📁(https://img.shields.io/github/followers/Krishnasaini0001?style=for-the-badge&label=Followers) |
 
 </div>
 
