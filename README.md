@@ -131,10 +131,14 @@ krishna.say_hi()
 
 ---
 
-<div align="center">
+< div align="center" >
+🚀 Thanks for Visiting!
+If you like my work, consider ⭐ starring a repository!
+<br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1;One+Commit+at+a+Time+%F0%9F%94%A5" />
 
-### 💙 Thanks for visiting my profile!
+<br><br>
 
-**Keep Learning • Keep Building • Keep Growing 🚀**
+⭐ Code. Learn. Build. Repeat. ⭐
+</div> 
 
-</div>
+```
