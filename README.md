@@ -1,7 +1,7 @@
 
 <!-- ======================= HEADER ======================= -->
 
-<div align="center">
+< div align="center" >
 
 # 👋 Hey, I'm Krishna Saini
 
@@ -57,6 +57,8 @@ class KrishnaSaini:
 
 krishna = KrishnaSaini()
 krishna.say_hi()
+```
+
 ---
 
 ## 🛠️ Tech Stack
