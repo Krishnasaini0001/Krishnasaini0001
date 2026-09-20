@@ -1,7 +1,7 @@
 
 <!-- ======================= HEADER ======================= -->
 
-< div align="center" >
+<div align="center">
 
 # 👋 Hey, I'm Krishna Saini
 
