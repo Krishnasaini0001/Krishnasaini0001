@@ -109,6 +109,24 @@ krishna.say_hi()
 
 ---
 
+## ⚡ GitHub Overview
+
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│     ⭐ STARS       🏆 TROPHIES               │
+│        ───             ───                   │
+│                                              │
+│     🔥 CONTRIBUTIONS    📁 REPOSITORIES      │
+│        ───                  ───              │
+│                                              │
+╰──────────────────────────────────────────────╯
+
+```
+---
+
 ## 🔥 GitHub Streak
 
 <div align="center">
