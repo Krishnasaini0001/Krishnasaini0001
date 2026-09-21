@@ -131,11 +131,7 @@ krishna.say_hi()
 <img src="https://img.shields.io/github/commit-activity/y/Krishnasaini0001?style=for-the-badge&logo=git&label=COMMITS" />
 </a>
 -->
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krishnasaini0001&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&include_all_commits=true&theme=tokyonight" />
-
-</div>
 
 </div>
 
