@@ -109,22 +109,28 @@ krishna.say_hi()
 
 ---
 
-## ⚡ GitHub Overview
+## 📊 GitHub Overview
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│     ⭐ STARS       🏆 TROPHIES               │
-│        ───             ───                   │
-│                                              │
-│     🔥 CONTRIBUTIONS    📁 REPOSITORIES      │
-│        ───                  ───              │
-│                                              │
-╰──────────────────────────────────────────────╯
+<a href="https://github.com/Krishnasaini0001">
+<img src="https://img.shields.io/github/stars/Krishnasaini0001?style=for-the-badge&logo=github&label=STARS&color=yellow" />
+</a>
 
-```
+<a href="https://github.com/Krishnasaini0001?tab=repositories">
+<img src="https://img.shields.io/github/repos/Krishnasaini0001?style=for-the-badge&logo=github&label=REPOSITORIES" />
+</a>
+
+<a href="https://github.com/Krishnasaini0001">
+<img src="https://img.shields.io/github/followers/Krishnasaini0001?style=for-the-badge&logo=github&label=FOLLOWERS" />
+</a>
+
+<a href="https://github.com/Krishnasaini0001">
+<img src="https://img.shields.io/github/commit-activity/y/Krishnasaini0001?style=for-the-badge&logo=git&label=COMMITS" />
+</a>
+
+</div>
+
 ---
 
 ## 🔥 GitHub Streak
