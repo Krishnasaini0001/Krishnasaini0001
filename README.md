@@ -1,9 +1,10 @@
 
 <!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-# 👋 Hey, I'm Krishna Saini
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:AD00FF,50:5B21B6,100:009E9E&height=180&section=header&text=Krishna%20Saini&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=B.Tech%20CSE%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=68&descSize=18&animation=fadeIn" />
+
+</div>
 
 ### `B.Tech CSE Student` • `AI/ML Enthusiast` • `Python Developer` • `Future AI Engineer`
 
