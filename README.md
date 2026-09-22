@@ -126,11 +126,11 @@ krishna.say_hi()
 <img src="https://img.shields.io/github/followers/Krishnasaini0001?style=for-the-badge&logo=github&label=FOLLOWERS" />
 </a>
 
-<!--
+
 <a href="https://github.com/Krishnasaini0001">
 <img src="https://img.shields.io/github/commit-activity/y/Krishnasaini0001?style=for-the-badge&logo=git&label=COMMITS" />
 </a>
--->
+
 
 
 </div>
