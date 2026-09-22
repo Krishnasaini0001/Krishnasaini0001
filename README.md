@@ -13,6 +13,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=Krishnasaini0001&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
+<a href="https://github.com/Krishnasaini0001">
+<img src="https://img.shields.io/github/stars/Krishnasaini0001?style=for-the-badge&logo=github&label=STARS&color=yellow" />
+</a>
+
+<a href="https://github.com/Krishnasaini0001">
+<img src="https://img.shields.io/github/followers/Krishnasaini0001?style=for-the-badge&logo=github&label=FOLLOWERS" />
+</a>
+
 </div>
 
 ---
