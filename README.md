@@ -74,6 +74,13 @@ krishna.say_hi()
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishnasaini0001&theme=tokyonight" />
 
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishnasaini0001&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krishnasaini0001&theme=tokyonight" />
+
+
 ---
 
 ## 🛠️ Tech Stack
