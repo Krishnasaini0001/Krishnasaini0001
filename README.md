@@ -57,7 +57,9 @@ class KrishnaSaini:
 
         self.hobbies = [
             "♟️ Chess",
-            "🎨 Sketching"
+            "🎨 Sketching",
+            " Cricket",
+            " Coding"
         ]
 
     def say_hi(self):
