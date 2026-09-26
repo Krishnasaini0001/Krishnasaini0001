@@ -86,7 +86,7 @@ krishna.say_hi()
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krishnasaini0001&theme=tokyonight" />
 
-</h2>
+</div>
 
 ---
 
