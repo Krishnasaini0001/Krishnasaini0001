@@ -160,6 +160,14 @@ krishna.say_hi()
 * ⭐ Maintain consistent GitHub activity
 
 ---
+
+
+<div align="center">
+
+🚀 Thanks for Visiting!
+
+<br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1;One+Commit+at+a+Time+%F0%9F%94%A5" />
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:845EC2,100:D500F9&height=100&section=footer" width="100%">
@@ -173,13 +181,6 @@ krishna.say_hi()
 *"Building the future, one line of code at a time 🚀"*
 
 </div>
-
-<div align="center">
-
-🚀 Thanks for Visiting!
-
-<br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1;One+Commit+at+a+Time+%F0%9F%94%A5" />
-
 <br><br>
 
 ⭐ Code. Learn. Build. Repeat. ⭐
