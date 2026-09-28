@@ -26,20 +26,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Krishna%20Saini&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=%F0%9F%A7%A0%20AI%20%7C%20ML%20%7C%20Python%20%7C%20GenAI&descAlignY=68&descSize=19"/>
-
-</div>
-
-<p align="center">
-
-`Python` → `Data` → `ML` → `Deep Learning` → `GenAI` → `AI Agents`
-
-</p>
-
----
-
 
 
 <!-- ======================= ABOUT ======================= -->
