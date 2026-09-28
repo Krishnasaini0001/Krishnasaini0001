@@ -27,18 +27,6 @@
 ---
 
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=190&text=KRISHNA%20SAINI&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=%F0%9F%9A%80%20MISSION%3A%20BECOME%20AN%20AI%2FML%20ENGINEER&descSize=17&descAlignY=65"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=%5B+Python+%5D+%E2%86%92+%5B+ML+%5D+%E2%86%92+%5B+Deep+Learning+%5D+%E2%86%92+%5B+GenAI+%5D;Building+projects+one+commit+at+a+time+%F0%9F%94%A5" />
-
-</div>
-
-
----
 
 <!-- ======================= ABOUT ======================= -->
 
