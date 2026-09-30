@@ -93,13 +93,18 @@ krishna.say_hi()
 ---
 
 ## 🛠️ Tech Stack
+<div align="center">
 
+💻 Programming Languages
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,git,github,vscode,numpy,pandas,matplotlib" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,git,github,vscode" />
 
 </p>
+📊 Data Science & AI/ML
 
+<p> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" /> </p>
+</div>
 ---
 
 ## 🚀 Projects
