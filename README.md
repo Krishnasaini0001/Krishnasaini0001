@@ -91,22 +91,44 @@ krishna.say_hi()
 </div>
 
 ---
+<h2 align="center">⚡ Tech Stack</h2>
 
-## 🛠️ Tech Stack
 <div align="center">
 
 ### 💻 Programming Languages
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,git,github,vscode" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript" />
 </p>
 
 ### 📊 Data Science & AI/ML
 
-<p> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" /> </p>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,flask" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 </div>
+
 ---
 
 ## 🚀 Projects
