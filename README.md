@@ -96,7 +96,7 @@ krishna.say_hi()
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,git,github,vscode,numpy,pandas,matplotlib" />
 
 </p>
 
